@@ -2,6 +2,7 @@
 
 Cuento con una gran capacidad de aprendizaje, motivación y flexibilidad. Desde pequeño me he interesado por la tecnología y el diseño por lo que me he metido de lleno a aprender tanto a programar como a buscar las mejores formas visuales de mostrar algo. Android siempre me ha encantado por lo que decidí estudiar Desarrollo de Aplicaciones Multiplatafora y enfocarme en la programación de apps móviles. Kotlin es un salto enorme en la programación en Android por lo que actualmente estoy haciendo cursos sobre ello para convertirme en un profesional del tema.
 
+
 ![Stats de Juanlu](https://github-readme-stats.vercel.app/api?username=Juanlu09&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
@@ -25,7 +26,7 @@ Cuento con una gran capacidad de aprendizaje, motivación y flexibilidad. Desde 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-luis-holgado-moreno-43265414a)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/mouredev/mouredev/blob/output/github-contribution-grid-snake.svg)
 
 
 
