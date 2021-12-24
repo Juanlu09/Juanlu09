@@ -1,6 +1,6 @@
 ### Hola 👋 soy Juanlu Holgado Moreno
 
-Cuento con una gran capacidad de aprendizaje, motivación y flexibilidad. Desde pequeño me he interesado por la tecnología y el diseño por lo que me he metido de lleno a aprender tanto a programar como a buscar las mejores formas visuales de mostrar algo. Android siempre me ha encantado por lo que decidí estudiar Desarrollo de Aplicaciones Multiplatafora y enfocarme en la programación de apps móviles. Kotlin es un salto enorme en la programación en Android por lo que actualmente estoy haciendo cursos sobre ello para convertirme en un profesional del tema.
+Cuento con una gran capacidad de aprendizaje, motivación y flexibilidad. Desde pequeño me he interesado por la tecnología y el diseño por lo que me he metido de lleno a aprender tanto a programar como a buscar las mejores formas visuales de mostrar algo. Android siempre me ha encantado por lo que decidí estudiar Desarrollo de Aplicaciones Multiplataforma y enfocarme en la programación de apps móviles. Kotlin es un salto enorme en la programación de Android por lo que actualmente estoy haciendo cursos sobre ello para convertirme en un profesional del tema.
 
 
 ![Stats de Juanlu](https://github-readme-stats.vercel.app/api?username=Juanlu09&show_icons=true&theme=radical)
