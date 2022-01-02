@@ -26,7 +26,7 @@ Cuento con una gran capacidad de aprendizaje, motivación y flexibilidad. Desde 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-luis-holgado-moreno-43265414a)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Juanlu09/Juanlu09/blob/output/github-contribution-grid-snake.svg)
 
 
 
